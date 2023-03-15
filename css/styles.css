@@ -18,3 +18,22 @@ h1 {
 h3 {
     color: #66BFBF;
 }
+
+nav ul {
+
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    flex-grow: 1;
+    background-color: gold;
+    text-align: center;
+}
+
+nav li {
+    flex-basis: 100px;
+    background-color: gold;
+    text-align: center;
+}
