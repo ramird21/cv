@@ -43,6 +43,11 @@ nav li {
     color: goldenrod;
 }
 
+
+#disclaim {
+    color: red;
+}
+
 a:link {
     text-decoration: none;
 }
